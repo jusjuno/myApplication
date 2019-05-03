@@ -6,7 +6,11 @@ import java.io.InputStream;
 import java.net.Socket;
 
 
-
+/**
+ * 
+ * @author khd
+ *
+ */
 public class SimpleClient {
 	public static void main(String[] args) {
 	
